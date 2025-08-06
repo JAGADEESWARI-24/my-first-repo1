@@ -1,7 +1,4 @@
 a=6
 b=9
-d=5
-c=a+b+d
-
-print(c)
-
+c=a+b
+prinf(c)
